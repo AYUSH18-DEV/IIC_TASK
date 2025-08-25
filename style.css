@@ -28,32 +28,6 @@ header{
     right: 1rem;
 }
 
-label{
-    position: fixed;
-    top: 2rem;
-    right: 1rem;
-}
-
-input:checked section{
-    background-color: black;
-    color: whitesmoke;
-
-}
-
-header h1{
-    font-size: 4.5rem;
-    font-weight: 2rem;
-}
-
-.btn{
-    height: 2.5rem;
-    width: 8rem;
-    font-size: 1rem;
-    border-radius: 0.6rem;
-    color: white;
-    background-color: black;
-}
-
 section {
     padding: 4rem 1rem;
     max-width: 1000px;
